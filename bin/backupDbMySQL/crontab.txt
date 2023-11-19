@@ -1,0 +1,4 @@
+Reference: http://www.adminschoice.com/crontab-quick-reference
+
+Edited in 2015/01/07
+0 1 * * * /home/admin/web/201405.roll_call/backup/backup.sh >> /home/admin/web/201405.roll_call/backup/backup.log 2>&1

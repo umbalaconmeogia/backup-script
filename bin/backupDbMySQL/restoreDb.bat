@@ -1,0 +1,1 @@
+mysql -u roll_call -proll_call --default-character-set=utf8 roll_call < roll_call.sql > out.txt 2>&1
